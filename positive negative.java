@@ -1,11 +1,11 @@
 public class PositiveNegative {
   public static void main(String[] args) {
     int num;
-    num=3;
+    num=5;
     if (num>0)
-    System.out.println("Num is Positive");
+    System.out.println("Positive");
     else if (num<0)
-    System.out.println("Num is Negative");
+    System.out.println("Negative");
     else 
     System.out.println("Zero");
  }
